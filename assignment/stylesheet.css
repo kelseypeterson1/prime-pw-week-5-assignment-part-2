@@ -5,10 +5,13 @@
 }
 
 .main {
-  background-color: gray;
+  background-color: #D9D8D7;
+  padding: 2px;
 }
 
 body {
   background-image: url("record.png");
   background-repeat: repeat;
+  margin: 0px;
+  padding: 1em;
 }
